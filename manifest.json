@@ -1,11 +1,11 @@
 {
     "name": "docapp",
-    "short_name": "Dr. Perihan Clinic.",
+    "short_name": "docapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Dr. Perihan Clinic.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
